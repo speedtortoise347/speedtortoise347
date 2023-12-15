@@ -2,6 +2,8 @@
 
 I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bachelor of Science in [Human Evolutionary Biolgy](https://www.stonybrook.edu/commcms/anthropology/undergraduate/bs-human-evolutionary-biology) and a minor in [Geospatial Science](https://www.stonybrook.edu/commcms/gss/index.html).
 
+![Alt text](kisspng-stony-brook-university-higher-education-academic-d-5b0075b68c82c6.1121726215267567905756-1.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
