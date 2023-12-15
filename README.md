@@ -1,3 +1,7 @@
+## Evan Lassiter
+
+I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bachelor of Science in [Human Evolutionary Biolgy](https://www.stonybrook.edu/commcms/anthropology/undergraduate/bs-human-evolutionary-biology) and a minor in [Geospatial Science](https://www.stonybrook.edu/commcms/gss/index.html).
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
