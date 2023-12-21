@@ -11,16 +11,20 @@ I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bach
 ### Welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on my new geospatial project based in QGIS
+
 - 🌱 I’m currently learning Python programming for spatial datasets
+
 - 👯 I’m looking to collaborate on any large-scale projects implementing environmental risk analysis and disaster management
-<!--
-- 🤔 I’m looking for help with...
-  -->
-- 💬 Ask me about my GIS and Remote sensing projects found on [my portfolio](https://speedtortoise347.github.io/)
+
+- 💬 Ask me about my GIS and Remote sensing projects found on my [portfolio](https://speedtortoise347.github.io/)
+
 - 📫 How to reach me:
+
   - email: evanlassiter00@gmail.com
   - LinkedIn: [My Profile](https://www.linkedin.com/in/evan-lassiter-1258831ba/)
+
 - 😄 Pronouns: he/him/his
+
 - ⚡ Fun fact: I am very interested in and am fond of all bee species!
 
 ![An image of a beehive with honeybees inside](honeycomb.jpg)
