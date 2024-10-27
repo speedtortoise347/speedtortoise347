@@ -4,7 +4,7 @@ My GitHub Profile
 
 ### Education
 
-I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bachelor of Science in [Human Evolutionary Biolgy](https://www.stonybrook.edu/commcms/anthropology/undergraduate/bs-human-evolutionary-biology) and a minor in [Geospatial Science](https://www.stonybrook.edu/commcms/gss/index.html).
+I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bachelor of Science in [Human Evolutionary Biology](https://www.stonybrook.edu/commcms/anthropology/undergraduate/bs-human-evolutionary-biology) and a minor in [Geospatial Science](https://www.stonybrook.edu/commcms/gss/index.html).
 
 ![The offical logo of Stony Brook University](SBU_Logo_Clip.png)
 
@@ -14,7 +14,7 @@ I am a [Stony Brook University](https://www.stonybrook.edu/) alumnus with a Bach
 
 - 🌱 I’m currently learning Python programming for spatial datasets
 
-- 👯 I’m looking to collaborate on any large-scale projects implementing environmental risk analysis and disaster management
+- 👯 I’m looking to collaborate on any freelance remote sensing or GIS projects with a passionate team!
 
 - 💬 Ask me about my GIS and Remote sensing projects found on my [portfolio](https://speedtortoise347.github.io/)
 
